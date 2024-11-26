@@ -1,2 +1,2 @@
-print("hello chandu");
+print("helloo chandu");
 print("hello lathika");
